@@ -1,0 +1,4 @@
+baseURL = 'http://lizzyandjames.wedding/'
+languageCode = 'en-us'
+title = 'Lizzy & James'
+theme = ["github.com/jameshochadel/gohugo-theme-wedding"]
